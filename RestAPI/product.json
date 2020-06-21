@@ -1,0 +1,17 @@
+    [
+        {
+            "product": "laptop",
+            "price": 25000,
+            "model": 123
+        },
+        {
+            "product": "mobile",
+            "price": 10000,
+            "model": 456
+        },
+        {
+            "product": "tablet",
+            "price": 7000,
+            "model": 321
+        }
+    ]
