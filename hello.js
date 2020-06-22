@@ -1,0 +1,5 @@
+console.time('answer')
+console.log('hello world')
+console.log('hello')
+console.log('pasupathi')
+console.timeEnd('answer')
